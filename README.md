@@ -1,4 +1,4 @@
-Hi 👋 My name is Vikas Harge
+Hi 👋, I am Vikas Harge.
 =================================
 
 Fullstack developer
@@ -7,9 +7,11 @@ Fullstack developer
 I love to code, having strong knowledge in HTML,CSS,JS and also frameworks/libraries like Reactjs,Extjs,Express having great experience in building single page applications and also in debugging large scale applications.
 
 *   🌍  Tirupati,Andhrapradesh,India.
-*   ✉️  You can contact me at [ananthastaputra01@gmail.com](mailto:harge.vikas@gmail.com)
+*   ✉️  You can contact me at [harge.vikas@gmail.com](mailto:harge.vikas@gmail.com)
 *   🧠  I'm learning Nextjs, redis, nodejs microservices
-*   🤝  I'm open to collaborating on reactjs, simple websites### Skills<p align="left">
+*   🤝  I'm open to collaborating on reactjs, simple websites
+    
+   Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
