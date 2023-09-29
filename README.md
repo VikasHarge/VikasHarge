@@ -6,7 +6,7 @@ Fullstack developer
 
 I love to code, having strong knowledge in HTML,CSS,JS and also frameworks/libraries like Reactjs,Extjs,Express having great experience in building single page applications and also in debugging large scale applications.
 
-*   🌍  Tirupati,Andhrapradesh,India.
+*   🌍  Mumbai, Maharashtra,,India.
 *   ✉️  You can contact me at [harge.vikas@gmail.com](mailto:harge.vikas@gmail.com)
 *   🧠  I'm learning Nextjs, redis, nodejs microservices
 *   🤝  I'm open to collaborating on reactjs, simple websites
