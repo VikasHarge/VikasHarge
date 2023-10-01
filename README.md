@@ -1,4 +1,5 @@
 Hi 👋, I am Vikas Harge.
+## $\textcolor{Cyan}{Hi 👋, I am Vikas Harge}$
 =================================
 Full Stack Developer
 ----------------------------
