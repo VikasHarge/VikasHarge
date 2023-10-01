@@ -1,4 +1,4 @@
-<h2 style="color:"blue; font-size:"80px" >Hi 👋, I am Vikas Harge.</h2>
+Hi 👋, I am Vikas Harge.
 =================================
 
 Full Stack Developer
