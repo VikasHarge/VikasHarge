@@ -1,13 +1,9 @@
-Hi 👋, I am Vikas Harge.
+```diff
+@@ Hi 👋, I am Vikas Harge. (and bold)@@
+```
 =================================
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
 
 Full Stack Developer
 ----------------------------
