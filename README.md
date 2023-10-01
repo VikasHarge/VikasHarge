@@ -2,9 +2,6 @@
 @@ Hi 👋, I am Vikas Harge. (and bold)@@
 ```
 =================================
-
-
-
 Full Stack Developer
 ----------------------------
 
