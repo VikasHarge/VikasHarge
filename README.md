@@ -1,6 +1,4 @@
-```diff
-@@ Hi 👋, I am Vikas Harge. (and bold)@@
-```
+Hi 👋, I am Vikas Harge.
 =================================
 Full Stack Developer
 ----------------------------
