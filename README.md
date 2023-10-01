@@ -1,4 +1,4 @@
-Hi 👋, I am Vikas Harge.
+[#1589F0]Hi 👋, I am Vikas Harge.
 =================================
 
 Full Stack Developer
