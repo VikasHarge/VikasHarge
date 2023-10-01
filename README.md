@@ -1,4 +1,4 @@
-Hi 👋, I am Vikas Harge.
+<p style="color:blue" >Hi 👋, I am Vikas Harge.</p>
 =================================
 
 Full Stack Developer
