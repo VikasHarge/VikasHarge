@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Vikas Harge!](https://github.com/vikas-harge/)
+# Hi 👋, I'm [Vikas Harge!](https://github.com/vikas-harge/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vikas-harge) <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasharge&label=Profile%20views&color=0e75b6&style=flat" alt="vikasharge" /> </p>
 
